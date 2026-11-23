@@ -1,0 +1,23 @@
+# --- React / Node ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*
+
+# --- .NET / Visual Studio ---
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+appsettings.Development.json
+
+# --- OS & Editors ---
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
